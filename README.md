@@ -3,8 +3,8 @@
 🏫 计算机科学 · 大四
 Senior Computer Science student
 
-  - 📚 正在学习算法与数据结构
-   Currently learning algorithms & data structures
+  - 📚 正在学习算法
+   Currently learning algorithms
   
   - 🤖 正在开发 AI Agent
    Building AI agents
