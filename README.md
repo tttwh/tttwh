@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jonath0n · 你好，我是 Jonath0n
+# 👋 Hi, I'm Jonath0n
 
 🏫 澳门科技大学 · 计算机科学 · 大四
 Senior Computer Science student at Macau University of Science and Technology
